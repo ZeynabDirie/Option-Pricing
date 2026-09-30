@@ -1,0 +1,35 @@
+# Option Pricing
+
+A quantitative finance project exploring different methods for pricing financial options using Python, with plans to extend the implementation to C++.
+
+## Project Goals
+
+* Implement the Black–Scholes option pricing model
+* Calculate option Greeks
+* Explore Monte Carlo simulation for option pricing
+* Implement a binomial pricing model
+* Compare different numerical pricing methods
+* Investigate implied volatility
+* Explore the performance of Python and C++ implementations
+
+## Methods
+
+The project will cover:
+
+* Black–Scholes model
+* Monte Carlo simulation
+* Binomial tree
+* Numerical methods
+* Risk measures and option Greeks
+
+## Technologies
+
+* Python
+* NumPy
+* SciPy
+* Matplotlib
+* C++ *(planned)*
+
+## Status
+
+🚧 Currently in development.
